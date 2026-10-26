@@ -1,0 +1,32 @@
+main_category,review_count,unique_products_reviewed,mean_rating,verified_purchase_rate,helpful_vote_total
+Tools & Home Improvement,771208,42676,4.315636,0.975949,367124
+Appliances,581378,25562,4.098299,0.939836,1015558
+Amazon Home,574903,13908,4.243408,0.955526,411735
+Industrial & Scientific,97313,5520,4.143239,0.9561,74747
+Unknown,28146,4668,4.113267,0.93651,28017
+Grocery,11747,95,4.259385,0.951051,17123
+Automotive,8401,567,4.200214,0.964409,8574
+Health & Personal Care,7460,268,4.162735,0.952815,8855
+Sports & Outdoors,4672,124,4.236087,0.974529,3311
+Baby,3797,82,4.037398,0.938109,2513
+Camera & Photo,2654,39,4.232856,0.955916,3986
+All Electronics,2542,168,4.317073,0.937844,3123
+Cell Phones & Accessories,2095,85,4.269212,0.946062,4744
+Office Products,1756,68,4.486333,0.948747,1440
+AMAZON FASHION,1051,71,4.200761,0.973359,585
+Pet Supplies,953,49,4.334732,0.924449,996
+Toys & Games,669,38,4.240658,0.956652,292
+All Beauty,645,68,4.353488,0.981395,223
+Musical Instruments,631,83,4.421553,0.950872,463
+Computers,617,57,4.222042,0.967585,196
+Home Audio & Theater,498,31,4.056225,0.97992,499
+Portable Audio & Accessories,275,5,4.16,0.970909,123
+"Arts, Crafts & Sewing",217,33,4.548387,0.976959,205
+Books,165,5,4.478788,0.715152,662
+Car Electronics,97,4,4.010309,0.979381,23
+Software,16,1,4.625,1.0,2
+Premium Beauty,12,2,4.25,1.0,7
+Movies & TV,3,1,5.0,1.0,0
+Digital Music,2,2,3.0,0.0,1
+Video Games,2,1,5.0,1.0,0
+GPS & Navigation,1,1,5.0,1.0,0
